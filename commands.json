@@ -30,6 +30,7 @@
     "clear B8",
     "clear A8",
     "clear A7",
-    "flag C8"
+    "flag C8",
+    "end"
   ]
 }
